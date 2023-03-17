@@ -1,4 +1,4 @@
-# Friesian server deploying with Helm Chart
+# Friesian online serving pipeline deploying with Helm Chart
 
 This example demonstrates how to deploy a Friesian recommender server with Helm Chart on a
 Kubernetes cluster.
@@ -14,7 +14,7 @@ Kubernetes cluster.
 
 You can get the full installation document from [here](./friesian-helm/README.md).
 
-## TL;DR
+## Quick Installation
 
 ```bash
 git clone https://github.com/intel-analytics/BigDL.git

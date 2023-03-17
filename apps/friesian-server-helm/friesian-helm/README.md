@@ -33,7 +33,7 @@ Some important configs must be checked:
     * [`ranking.resourcePath`](./values.yaml#L339)
     * [`recommender.config`](./values.yaml#L385)
 
-* Modify all image repositories & tags to match your docker-hub.
+* Modify all image repositories & tags to match your docker images.
     * [`init.image`](./values.yaml#L14)
     * [`feature.image`](./values.yaml#L89)
     * [`featureRecall.image`](./values.yaml#L171)
